@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+orientationcheck.egg-info/PKG-INFO
+orientationcheck.egg-info/SOURCES.txt
+orientationcheck.egg-info/dependency_links.txt
+orientationcheck.egg-info/requires.txt
+orientationcheck.egg-info/top_level.txt
